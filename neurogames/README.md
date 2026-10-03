@@ -6,11 +6,11 @@ Sitio institucional estático de Neurogames, en español, con acceso a AXONYX ·
 
 https://roca148.github.io/axonyx-defensa-inmune/neurogames/
 
-`index.html` contiene estilos, interacciones e imágenes. No requiere instalar dependencias ni ejecutar un build. El juego original permanece en la raíz del repositorio.
+`index.html` contiene estilos, interacciones e imágenes del juego; `assets/neurogames-logo.svg` contiene el logo. No requiere instalar dependencias ni ejecutar un build. El juego original permanece en la raíz del repositorio.
 
 ## Contenido y edición
 
-Incluye propuesta de juegos personalizados para instituciones educativas, demostración de Defensa Inmune, antecedente del ajedrez de inmunología, personalización de contenido y dinámica, proceso de trabajo, cuatro miembros del equipo, preguntas comerciales y formulario para preparar una solicitud por correo. El correo configurado es rocamacias1@gmail.com. La marca N es un identificador tipográfico provisional. La imagen procede de una captura del juego real.
+Incluye propuesta de juegos personalizados para instituciones educativas, demostración de Defensa Inmune, antecedente del ajedrez de inmunología, personalización de contenido y dinámica, proceso de trabajo, cuatro miembros del equipo, preguntas comerciales y formulario para preparar una solicitud por correo. El correo configurado es rocamacias1@gmail.com. El logo oficial proporcionado está integrado en encabezado, pie de página, sección del ajedrez y favicon. assets/neurogames-logo.svg contiene una versión optimizada de la imagen original, conservando colores y proporciones. La imagen procede de una captura del juego real.
 
 Los archivos de incubación aportados son principalmente plantillas. El documento maestro de Neurogames aporta el ajedrez probado con estudiantes de UANL y los fundadores adicionales. No se publican contenido para inversionistas, tamaño de mercado, proyecciones, porcentajes de retención, precios inventados ni eficacia educativa demostrada.
 
