@@ -10,9 +10,9 @@ https://roca148.github.io/axonyx-defensa-inmune/neurogames/
 
 ## Contenido y edición
 
-Incluye presentación, juego, enfoque de diseño, perfiles para estudiantes y docentes, equipo, preguntas frecuentes y enlace de contacto por correo. El correo configurado es rocamacias1@gmail.com. La marca N es un identificador tipográfico provisional. La imagen procede de una captura del juego real.
+Incluye propuesta de juegos personalizados para instituciones educativas, demostración de Defensa Inmune, antecedente del ajedrez de inmunología, personalización de contenido y dinámica, proceso de trabajo, cuatro miembros del equipo, preguntas comerciales y formulario para preparar una solicitud por correo. El correo configurado es rocamacias1@gmail.com. La marca N es un identificador tipográfico provisional. La imagen procede de una captura del juego real.
 
-Los archivos de incubación aportados son principalmente plantillas. No se publicaron sus cifras financieras ni se añadieron precios, resultados de validación, testimonios o alianzas institucionales no confirmadas.
+Los archivos de incubación aportados son principalmente plantillas. El documento maestro de Neurogames aporta el ajedrez probado con estudiantes de UANL y los fundadores adicionales. No se publican contenido para inversionistas, tamaño de mercado, proyecciones, porcentajes de retención, precios inventados ni eficacia educativa demostrada.
 
 ## Dominio propio
 
@@ -22,4 +22,4 @@ Un dominio configurado en ESTE repositorio se aplica a todo el repositorio: su r
 
 ## Funciones
 
-Navegación adaptable; selector de perfil con soporte de teclado; ventana de juego con cierre por botón y Escape; apertura alternativa en otra pestaña; preguntas desplegables. El correo abre la aplicación de correo del visitante: no hay formulario ni backend de envío.
+Navegación adaptable; selector de institución con soporte de teclado; ventana de juego con cierre por botón y Escape; apertura alternativa en otra pestaña; preguntas desplegables. El formulario valida campos requeridos y correo y abre un borrador mediante mailto; el visitante debe enviarlo desde su aplicación de correo. No hay backend, envío automático ni almacenamiento de datos. Las integraciones, reportes y otros requisitos se evalúan por propuesta.
